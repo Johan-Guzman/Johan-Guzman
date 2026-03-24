@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/your-id?v=4">
+    <img width="200" src="https://avatars.githubusercontent.com/u/583231?v=4">
 </p>
 
 <h1 align="center">Hi, I'm Johan Guzmán 👋</h1>
@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://github.com/Johan-Guzman">
-<img src="https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social">
+<img src="https://img.shields.io/github/followers/Johan-Guzman?label=Follow&style=social">
 </a>
 </p>
 
@@ -48,7 +48,7 @@
 
 - Git & GitHub  
 - Canva  
-- Figma (si lo usas, si no dime y lo quitamos)
+- Figma  
 
 ---
 
@@ -77,11 +77,11 @@ I lose track of time when I'm designing or listening to music 🎧✨
 
 ## 📫 Connect With Me
 
-<a href="www.linkedin.com/in/johan-stiven-guzman-b73869306">
+<a href="https://www.linkedin.com/in/johan-stiven-guzman-b73869306">
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
 
-<a href="[https://github.com/Johan-Guzman](https://github.com/Johan-Guzman)">
+<a href="https://github.com/Johan-Guzman">
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
@@ -89,9 +89,9 @@ I lose track of time when I'm designing or listening to music 🎧✨
 
 ## 📊 GitHub Stats
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Johan-Guzman&show_icons=true&theme=tokyonight) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johan-Guzman&theme=tokyonight) |
 | --- | --- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-Guzman&theme=tokyonight)
 
 ---
