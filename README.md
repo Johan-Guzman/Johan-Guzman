@@ -81,7 +81,7 @@ I lose track of time when I'm designing or listening to music 🎧✨
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
 
-<a href="https://github.com/Johan-Guzman">
+<a href="[https://github.com/Johan-Guzman](https://github.com/Johan-Guzman)">
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
